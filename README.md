@@ -1,3 +1,5 @@
+NO LONGER MAINTAINED
+
 This repo contains information on my research on the Lingbo GEVK02 & GEVK07 (HO2A) speed controllers used in the following electric scooters
 * VGA GEV1000
 * AGM Goccia
